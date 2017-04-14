@@ -89,6 +89,7 @@ individuals acknowledged in this web site for their contribution to the datasets
 responsible for the content or the correctness of the datasets.
 
 # Other Related Projects 
+ - [InverseVIsTraffic](https://github.com/jingzbu/InverseVIsTraffic) is an open-source repository that implements some inverse Variational Inequality (VI) formulations proposed for both single-class and multi-class transportation networks. The package also implements algorithms to evaluate the Price of Anarchy in real road networks. Currently, the package is maintained by [Jing Zhang](http://people.bu.edu/jzh).
  - [TRB Network Modeling Committee](http://trb-networkmodeling.org/)
  - [Frank-Wolfe algorithm](http://www.bgu.ac.il/~bargera/tntp/FW.zip) that demonstrates how to read these 
    data formats and runs a FW assignment.  The header file "stdafx.h" is for Microsoft Visual C (MSVC) compiler. On 
