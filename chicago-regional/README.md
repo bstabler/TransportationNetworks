@@ -4,6 +4,8 @@ A large-scale, detailed representation of the Chicago region.
 ## Source
 Developed and provided by the Chicago Area Transportation Study (CATS)
 
+Abbas Babazadeh reports that two other credible versions of the Chicago Regional problem exist for which network data are identical to the first version given above, but demand matrices differ. The second version, known as FHWA 2009 project, has been provided by Michael Florian.The specific attributes of this version are as follows: total trips=1,429,901.18 (click here for demand data); optimul objective function value=17,016,655.2611360890; cost weights=0.0 (Toll and Distance). The Third version appears in "A Greedy Path-Based Algorithm for Traffic Assignment," Xie, J., Nie, Y., Liu, X., Transportation Research Record, Vol. 2672(48), pp. 33-44, 2018. For this version, total trips=1,429,895.88 (click here for demand data), optimul objective function value=17,016,355.0629789010, and cost weights=0.0.
+
 ## Scenario
 FIXME
 
