@@ -152,6 +152,7 @@ Bar-Gera, H. & Boyce, D. (2003), Origin-based algorithms for combined travel for
   - Rey, D.PI, Bar-Gera, H.PI, Dixit, V.PI, Waller, S.T.PI (2019). A Branch and Price Algorithm for the Work-zone Scheduling Problem. Accepted for publication in Transportation Science.
 
 # Other Related Projects
+  - [GMNS Plus Dataset](https://github.com/HanZhengIntelliTransport/GMNS_Plus_Dataset) is a publicly available, standardized transportation network collection based on the General Modeling Network Specification (GMNS).
   - [TRB Network Modeling Committee](https://trb-aep40.org)
   - [InverseVIsTraffic](https://github.com/jingzbu/InverseVIsTraffic) is an open-source repository that implements some inverse Variational Inequality (VI) formulations proposed for both single-class and multi-class transportation networks. The package also implements algorithms to evaluate the Price of Anarchy in real road networks. Currently, the package is maintained by [Jing Zhang](http://people.bu.edu/jzh).
   - [Frank-Wolfe algorithm](http://www.bgu.ac.il/~bargera/tntp/FW.zip) that demonstrates how to read these
